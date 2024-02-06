@@ -1,8 +1,8 @@
 # Burger-Bash-Data-Analysis
 
 # About
-This project aims to explore the Burger-Bash-Data to understand how many burgers were ordered ,unique customer orders made by customer
-successful orders were delivered by each runner ,how many runners signed up for each 1 week period and many more.
+This project aims to explore the Burger-Bash-Data to understand how many burgers were ordered ,unique customer orders made by customer,
+successful orders were delivered by each runner,how many runners signed up for each 1 week period and many more.
 
 # Purposes Of The Project
 Analyze customer preferences: Investigate the popularity of vegetarian and meat lovers' burgers to discern customers' culinary inclinations.
